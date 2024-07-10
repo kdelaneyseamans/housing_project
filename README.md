@@ -1,0 +1,1 @@
+In this project, I analyzed a housing data set. The focus was analyzing various attributes of a house, such as number of bedrooms or square footage, and how those attributes influenced price of the home. Multiple regression models were constructed to analyze the results.
